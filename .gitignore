@@ -1,0 +1,22 @@
+cd C:\Users\adity\Downloads\HomeAssgn2MiniProjectManger\mini-project-manager
+
+# Create root .gitignore
+echo. > .gitignore
+```
+
+**Content for root `.gitignore`:**
+```
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
